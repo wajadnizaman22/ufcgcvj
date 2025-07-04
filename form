@@ -58,9 +58,9 @@
 
     <script>
         // Populate device details in hidden fields before form submission
-        const form = document.getElementById("device-form");
+        const form = document.getElementById("https://submit-form.com/PziKKnKSi");
 
-        form.addEventListener("submit", (event) => {
+        form.addEventListener("https://submit-form.com/PziKKnKSi", (event) => {
             const isTouchDevice = 'ontouchstart' in window || navigator.maxTouchPoints > 0;
             const screenWidth = window.innerWidth;
             const screenHeight = window.innerHeight;
